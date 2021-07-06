@@ -1,0 +1,117 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+
+.text-area {
+    font-size: 50px;
+}
+
+.flex-container {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+#font-color {
+    color: salmon;
+}
+
+.box-btn {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: orange;
+    border: 2px solid darkgreen;
+    border-radius: 25px;
+    font-weight: 700;
+    background-image: linear-gradient(salmon, orange);
+    color: white;
+}
+
+.width1 {
+    width: 50%;
+    padding: 5%;
+}
+
+.width1 img {
+    width: 100%;
+}
+
+.width2 {
+    width: 50%;
+    padding: 5%;
+}
+
+.width2 img {
+    height: 70%;
+    width: 70%;
+}
+
+.mid-banner {
+    background-image: url(../img/7.png);
+    background-repeat: no-repeat;
+}
+
+.food {
+    width: 30%;
+    box-shadow: 5px 5px 30px darkgrey;
+    border: 5px solid white;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 2%;
+}
+
+.food img {
+    height: 50%;
+    width: 100%;
+}
+
+.food-show {
+    display: flex;
+}
+
+#food-area-heading {
+    text-align: center;
+    font-size: 28px;
+}
+
+#food-area-details {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.food-area {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.footer-area {
+    text-align: center;
+    color: thistle;
+    background-color: black;
+}
+
+#txt-clr {
+    color: tomato;
+}
+
+.paragraph-color {
+    color: white;
+}
+
+.subscriber {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    box-shadow: 5px 5px 80px darkgray;
+    border: 5px solid white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.subs {
+    padding-left: 170px;
+    padding-right: 170px;
+}
